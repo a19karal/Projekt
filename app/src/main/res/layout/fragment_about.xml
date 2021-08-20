@@ -5,10 +5,10 @@
     android:layout_height="match_parent"
     tools:context=".About">
 
-    <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:text="This app was created for Yakuza fans looking for information about the main characters. please do enjoy using this app because its very fun and i am running out of things to say because i cant come up with anymore formal things to say about this app, its a simple app to use. Give me G so i can feed my cat"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
 
 </FrameLayout>
