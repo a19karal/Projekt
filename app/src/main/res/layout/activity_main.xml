@@ -26,12 +26,12 @@
             android:layout_width="401dp"
             android:layout_height="235dp"
             android:text="HELLO GOHAN DID YOU DO YOUR HOMEWORK BECAUSE IF YOU DIDNT CHI CHI GONNA KICK MY ASS!"
-            android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toStartOf="parent"
-            tools:layout_editor_absoluteY="155dp"
-            tools:ignore="MissingConstraints" />
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteY="155dp" />
 
         <Button
             android:id="@+id/Wiki"
