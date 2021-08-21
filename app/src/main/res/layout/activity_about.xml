@@ -15,7 +15,7 @@
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginBottom="50dp"
-        android:text="This app was created for Yakuza fans looking for information about the main characters. please do enjoy using this app because its very fun and i am running out of things to say because i cant come up with anymore formal things to say about this app, its a simple app to use. Give me G so i can feed my cat"
+        android:text="This app was created for Yakuza fans looking for information about the main characters. please do enjoy using this app because its very fun and poggers."
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintBottom_toTopOf="@+id/Back"
         app:layout_constraintEnd_toEndOf="parent"
