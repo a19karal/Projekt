@@ -24,14 +24,16 @@ public class MainActivity extends AppCompatActivity
                 startActivity(intent);
             }
         });
-        button2.setOnClickListener(new View.OnClickListener() {
+
+
+        button2.setOnClickListener(new View.OnClickListener(){
             @Override
-            public void onClick(View view)
+            public void  onClick(View view)
             {
-                Intent intent2 = new Intent(MainActivity.this, Wiki.class);
+                Intent intent2 = new Intent(MainActivity.this, About.class);
                 startActivity(intent2);
+
             }
         });
-
     }
 }

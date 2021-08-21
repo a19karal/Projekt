@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Projekt">
         <activity
+            android:name=".About"
+            android:exported="true" />
+        <activity
             android:name=".Wiki"
             android:exported="true" />
         <activity
